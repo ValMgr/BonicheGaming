@@ -8,6 +8,7 @@
 - Tracnor
 - Balthy
 - Daddy
+- Guillaume Smith
 
 ### How to play
 - Non.
