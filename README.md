@@ -4,14 +4,14 @@
 # Caracal Gaming
 
 ### Authors
-- ZartaK40
-- Tracnor
-- Balthy
-- Daddy
-- Guillaume Smith
+- Zartok le dozo (ZartaK40)
+- Caracal (Tracnor)
+- Based (Balthy)
+- Daddy (Arloc)
+- Le Précoce (Guillaume Smith)
 
 ### How to play
-- Non.
+- C'est Non.
 
 ### Projet suivi sur Trello :
 https://trello.com/b/Vvm0xPiv
